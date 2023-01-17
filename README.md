@@ -19,18 +19,18 @@ The results will be found in ```Path/To/Output/Folder/test_result```
 ```python train_process/train_chart6view.py --output_dir Path/To/Output/Folder --data_root Path/To/TrainingData --phase_kimg 200 --gpu_id 0,1,2,3 --batch_group 8 --syn_batch 1 --real_batch 1 --exp_type {car,ffhq} --grad_repeat 4```
 
 # Cuhk Dataset #  
-Pretrained model: [PretrainedModel](http://share.msraig.info/TexGAN/data/Car/PretrainedModel.zip)  
-DemoInputData: [CarDemo](http://share.msraig.info/TexGAN/data/Car/CarDemo.zip)   
-Training Data: [CarCuhk_RealExp](http://share.msraig.info/TexGAN/data/Car/CarCuhk_RealExp.zip)  
-Source shapes of DemoInputData: [CarDemoSourceShape](http://share.msraig.info/TexGAN/data/Car/CarDemoSourceShape.zip)  
+Pretrained model: [PretrainedModel](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/Car/PretrainedModel.zip)  
+DemoInputData: [CarDemo](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/Car/CarDemo.zip)   
+Training Data: [CarCuhk_RealExp](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/Car/CarCuhk_RealExp.zip)  
+Source shapes of DemoInputData: [CarDemoSourceShape](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/Car/CarDemoSourceShape.zip)  
 
 # FFHQ Dataset #
-Pretrained model: [PretrainedModel](http://share.msraig.info/TexGAN/data/FFHQ/PretrainedModel.zip)  
-DemoInputData: [FFHQDemo](http://share.msraig.info/TexGAN/data/FFHQ/FFHQDemo.zip)   
-Training Data: [FFHQ_RealExp](http://share.msraig.info/TexGAN/data/FFHQ/FFHQ3d_RealExp.zip)  
+Pretrained model: [PretrainedModel](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/FFHQ/PretrainedModel.zip)  
+DemoInputData: [FFHQDemo](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/FFHQ/FFHQDemo.zip)   
+Training Data: [FFHQ_RealExp](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/FFHQ/FFHQ3d_RealExp.zip)  
 
 # Shoe Dataset #
-Pretrained model: [PretrainedModel](http://share.msraig.info/TexGAN/data/Shoe/PretrainedModel.zip)  
-DemoInputData: [ShoeDemo](http://share.msraig.info/TexGAN/data/Shoe/ShoeDemo.zip)   
+Pretrained model: [PretrainedModel](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/Shoe/PretrainedModel.zip)  
+DemoInputData: [ShoeDemo](https://igpublicshare.z20.web.core.windows.net/TexGAN/data/Shoe/ShoeDemo.zip)   
 Due to copyright issue, we cannot release the training data of the Shoe dataset.  
 
